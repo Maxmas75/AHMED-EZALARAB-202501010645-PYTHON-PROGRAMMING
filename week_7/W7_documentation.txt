@@ -1,0 +1,14 @@
+Week 7 - Food Order Program
+
+Bug identified in main.py:
+- The original program had missing code and invalid input handling.
+- The program needed to reject non-positive price and quantity values.
+
+Fixes applied:
+- Implemented calculate_total(price, quantity) in food_order.py.
+- Added validation for price <= 0 and quantity <= 0.
+- Updated main.py to read input safely and print a clear total message.
+- Added pytest tests for valid and invalid orders.
+
+Test result:
+- pytest: 2 passed
