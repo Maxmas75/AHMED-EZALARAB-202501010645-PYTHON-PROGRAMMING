@@ -14,4 +14,11 @@ This application collects customer order details and prints a simple food delive
 4. Enter the quantity.
 5. Enter the price per item.
 6. Enter `Y` for delivery or `N` for no delivery
+
+
+## Video Demo
+
 <video controls src="README.md - AHMED-EZALARAB-202501010645-PYTHON-PROGRAMMING [Codespaces_ upgraded space fiesta] - Visual Studio Code - Brave 2026-07-15 13-41-57.mp4" title=""></video>https://youtu.be/P5Ofd8Qi1eY?si=nIvh9OdUYDghxTLE
+
+![](https://github.com/user-attachments/assets/3d46d591-2b88-4882-aae9-f57feca9ca34)
+
