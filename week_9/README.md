@@ -32,3 +32,5 @@ Students can submit a ticket with their name, ID, issue, location, and priority.
 - `display.py` prints the ticket details.
 
 <video controls src="LMS VIDEO.mp4" title="Title"></video>[https://www.youtube.com/watch?v=JO6t33kB0b0]
+
+![alt text](<lms gif.gif>)
